@@ -1,3 +1,4 @@
 def oxford_comma(array)
-  array.split(",")
+  new_array = array.split(",")
+  new_array
 end
